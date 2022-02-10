@@ -11,4 +11,4 @@ static void main(String[] args)
 public void static main(String[] args)  
 abstract public static void main(String[] args)  
 
-thankyou
+s.o.p("message..");
